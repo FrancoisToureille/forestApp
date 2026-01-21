@@ -124,9 +124,8 @@ npm run dev
 
 ---
 
-A compléter
 
-## 7. Tests API avec Bruno
+## 6. Tests API avec Bruno
 
 Une collection Bruno `Tree/` a été crée dans `ForestBruno/` et il aurait fallu la compléter :
 

@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Tree",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
